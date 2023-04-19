@@ -1,2 +1,12 @@
-# tux-cube
-Physics Sensor Cube Tux³
+# Physics Sensor Cube ESP32-Tux³
+
+This is an idea I had for some time after playing around with the ESP32 together with sensors, micropython and Phyphox. I started designing an own PCB for an ESP32-C3 chip. I want it to be as small as possible and also solar powered. The cube should be energy ,self-sufficient' and possible to use for teaching physics. The cube should have the following sensors:
+- ...
+- ...
+
+
+## Proof of concept
+
+## ESP32-Tux³-PCB
+
+## Tux³ case and schematics
