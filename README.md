@@ -8,7 +8,7 @@ The cube should have the following sensors:
 
 I aim for a 35x35x35mm cube with 3D printed case. The case should be robust -- hopefully that it can fall from a building and be undamaged... Hope to be able to do this project. 
 
-My inspiration come from the [[ESP32-Picoclick-C3]][https://github.com/makermoekoe/Picoclick-C3]
+My inspiration come from the [ESP32-Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3)
 
 ## Proof of concept
 
