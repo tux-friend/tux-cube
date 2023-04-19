@@ -6,10 +6,15 @@ The cube should have the following sensors:
 - ...
 - ...
 
-I aim for a 35x35x35mm cube with 3D printed case. The case should be robust -- hopefully that it can fall from a building and be undamaged...
+I aim for a 35x35x35mm cube with 3D printed case. The case should be robust -- hopefully that it can fall from a building and be undamaged... Hope to be able to do this project. 
 
 ## Proof of concept
 
-## ESP32-Tux³-PCB
+## PCB design
 
-## Tux³ case and schematics
+## Case and schematics
+
+## Software
+
+### Micropython
+### Phyphox
