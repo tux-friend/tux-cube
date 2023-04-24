@@ -29,9 +29,7 @@ My inspiration come from the [ESP32-Picoclick-C3](https://github.com/makermoekoe
 
 On the weekend of 22.4./23.4. I created my first prototype for the cube interior and the 3D printed case. 
 
-<img src="case_v01.jpg" alt="Case v01" width="300"/>
-<img src="tux_prototype_2.jpg" alt="First prototype of Tux³ Cube" width="300"/>
-<img src="idea_sketch_tux_cube.png" alt="idea sketch" width="300"/>
+<img src="case_v01.jpg" alt="Case v01" width="300"/> <img src="tux3_prototype_2.jpg" alt="First prototype of Tux Cube" width="300"/><img src="idea_sketch_tux_cube.png" alt="idea sketch" width="300"/>
 
 
 ## PCB design
