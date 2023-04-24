@@ -1,5 +1,15 @@
 # Physics Sensor Cube ESP32-Tux³
 
+15.04.23 Idea for own ESP32 PCB Design
+
+16.04.23 Idea for physics sensor cube Tux³ and first sketches
+
+17.04.23 Design and order of v0.1 PCB
+
+22.04.23 First prototype and proof of concept
+
+23.04.23 Case v0.1
+
 This is an idea I had for some time after playing around with the ESP32 together with sensors, micropython and Phyphox. I started designing a PCB by my own for an ESP32-C3 chip. I want it to be as small as possible and also solar powered. The cube should be energy ,self-sufficient' and used for teaching physics. 
 
 The cube should have the following sensors:
@@ -24,14 +34,6 @@ In addition the cube should have:
 I aim for a 35x35x35mm cube with 3D printed case. The case should be robust - so that it can fall from a building and be undamaged... Hope to be able to do this project. 
 
 My inspiration come from the [ESP32-Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3), [BQ25504 Solar Cell LiPo Charger](https://hackaday.io/project/158837-ultra-low-power-lipo-charger-via-energy-harvesting), [01Space-ESP32-C3](https://github.com/01Space/ESP32-C3-0.42LCD) and the [Wemos C3 Pico](https://www.wemos.cc/en/latest/c3/c3_pico.html).
-
-## Timeline
-
-15.04.23 Idea for own ESP32 PCB Design
-16.04.23 Idea for physics sensor cube Tux³ and first sketches
-17.04.23 Design and order of v0.1 PCB
-22.04.23 First prototype and proof of concept
-23.04.23 Case v0.1
 
 ## Proof of concept
 
