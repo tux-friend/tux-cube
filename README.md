@@ -3,24 +3,24 @@
 This is an idea I had for some time after playing around with the ESP32 together with sensors, micropython and Phyphox. I started designing an own PCB for an ESP32-C3 chip. I want it to be as small as possible and also solar powered. The cube should be energy ,self-sufficient' and possible to use for teaching physics. 
 
 The cube should have the following sensors:
-- Temperature, pressure and humidity --> BME280
-- Gyroscope for acceleration and orientation measurements--> MPU9250
+- Temperature, pressure and humidity sensor -> BME280
+- Gyroscope for acceleration and orientation measurements-> MPU9250
 - Optical/Light sensor (measuring Lux)
 - (evtl. Magnetometer)
-- two connectors for temperature probes (DS18B20)
-- Voltage and current meter --> INA219
-- Time of flight sensor for measuring distances --> VL53L1X
-- evtl. microphone for sound measurements
+- 2 connectors for temperature probes (DS18B20)
+- Voltage and current meter -> INA219
+- Time of flight sensor for measuring distances -> VL53L1X
+- poss. microphone for sound measurements
 
 In addition the cube should have:
 - OLED Display for showing current measurement data/sensor
-- RGB LED
+- RGB-LED (e.g. for showing battery status)
 - Push button for changing the sensor/measurement
-- solar cell and battery
-- Pin-Header for connecting to cube to a breadboard and use the GPIO Pins
-- mounting nut for placing the cube on a tripod
+- Solar cell and battery
+- Pin-header for connecting to cube to a breadboard and use the GPIO Pins
+- Mounting nut for placing the cube on a tripod
 - On/Off-Button
-- evtl. buzzer for sound output
+- poss. buzzer for sound output
 
 I aim for a 35x35x35mm cube with 3D printed case. The case should be robust -- hopefully that it can fall from a building and be undamaged... Hope to be able to do this project. 
 
