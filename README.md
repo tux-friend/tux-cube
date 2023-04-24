@@ -28,7 +28,7 @@ My inspiration come from the [ESP32-Picoclick-C3](https://github.com/makermoekoe
 ## Proof of concept
 
 On the weekend of 22.4./23.4. I created my first prototype for the cube interior and the 3D printed case. 
-![Case v01](case_v01.jpg){width=200}
+![Case v01](case_v01.jpg =200x)
 
 ## PCB design
 
