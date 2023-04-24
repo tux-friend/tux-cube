@@ -1,8 +1,7 @@
 # Physics Sensor Cube ESP32-Tux³
 
-15.04.23 Idea for own ESP32 PCB Design
-
-16.04.23 Idea for physics sensor cube Tux³ and first sketches
+15.04.23 Idea for own ESP32 PCB Design\\
+16.04.23 Idea for physics sensor cube Tux³ and first sketches\\
 
 17.04.23 Design and order of v0.1 PCB
 
