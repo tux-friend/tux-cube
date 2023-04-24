@@ -3,13 +3,13 @@
 This is an idea I had for some time after playing around with the ESP32 together with sensors, micropython and Phyphox. I started designing an own PCB for an ESP32-C3 chip. I want it to be as small as possible and also solar powered. The cube should be energy ,self-sufficient' and possible to use for teaching physics. 
 
 The cube should have the following sensors:
-- Temperature, pressure and humidity sensor -> BME280
-- Gyroscope for acceleration and orientation measurements-> MPU9250
+- Temperature, pressure and humidity sensor &rarr; BME280
+- Gyroscope for acceleration and orientation measurements &rarr; MPU9250
 - Optical/Light sensor (measuring Lux)
 - (evtl. Magnetometer)
 - 2 connectors for temperature probes (DS18B20)
-- Voltage and current meter -> INA219
-- Time of flight sensor for measuring distances -> VL53L1X
+- Voltage and current meter &rarr; INA219
+- Time of flight sensor for measuring distances &rarr; VL53L1X
 - poss. microphone for sound measurements
 
 In addition the cube should have:
