@@ -9,7 +9,7 @@ The cube should have the following sensors:
 - 2 connectors for temperature probes (DS18B20)
 - Voltage and current meter &rarr; INA219
 - Time of flight sensor for measuring distances &rarr; VL53L1X
-- -optional: magnetometer & microphone for sound measurements
+- optional: magnetometer & microphone for sound measurements
 
 In addition the cube should have:
 - OLED Display for showing current measurement data/sensor
@@ -28,6 +28,7 @@ My inspiration come from the [ESP32-Picoclick-C3](https://github.com/makermoekoe
 ## Proof of concept
 
 On the weekend of 22.4./23.4. I created my first prototype for the cube interior and the 3D printed case. 
+![Case v01](case_v01.jpg){width=200}
 
 ## PCB design
 
