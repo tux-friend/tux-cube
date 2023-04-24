@@ -52,30 +52,30 @@ Case design I did with FreeCAD. See "case" directory for CAD- and stl-files.
 ## Parts list
 The parts I ordered mainly from AliExpress. Total costs for parts ~35$.
 
-|Part                                              |Price [$]  | Link |
-|--------------------------------------------------|-----------|------|
-|ESP32-C3 Board                                    |10.00      |      |
-|Gyro sensor MPU 9250                              |5.99       |https://www.aliexpress.com/item/1005005377858707.html|
-|Voltage/Current sensor INA219                     |0.94       |https://www.aliexpress.com/item/33047166203.html|
-|Temperature/pressure/humidity sensor BME280 (3.3V)|2.32       |https://www.aliexpress.com/item/32862421810.html|
-|Time of Flight sensor VL53L1X                     |4.65       |https://www.aliexpress.com/item/1005003091941068.html|
-|Microphone                                        |1.38       |https://www.aliexpress.com/item/4000045517597.html|
-|Light Sensor VEML7700                             |2.15       |https://www.aliexpress.com/item/1005004926993351.html|
-|30x25mm solar cell (1V/80mA)                      |0.30       |https://www.aliexpress.com/item/1005003534570447.html|
-|LiPo Battery 300mAh/3.7V                          |0.79       |https://www.aliexpress.com/item/1005005174603270.html|
-|OLED 0.96 inch, SSD1306                           |1.24       |https://www.aliexpress.com/item/32957309383.html|
-|RGB LED WS2812 2x2mm                              |0.08       |https://www.aliexpress.com/item/4000770210584.html|
-|12mm self-locking on/off button                   |1.20       |https://www.aliexpress.com/item/1005003575736338.html|
-|Tactile Push button 6x6x5                         |0.02       |https://www.aliexpress.com/item/32960657626.html|
-|JST 3-Pin Connectors                              |0.24       |https://www.aliexpress.com/item/32954418743.html|
-|14-Pin Header                                     |0.10       |https://www.aliexpress.com/item/33004522737.html|
-|2 Female Banana connectors                        |0.68       |https://www.aliexpress.com/item/1005002642114673.html|
-|Double sided tape                                 |1.99       |https://www.aliexpress.com/item/1005003980172009.html|
-|Mounting Nut M2.5                                 |0.03       |https://de.aliexpress.com/item/4000585933306.html|
-|M1.6 Screws 10mm                                  |0.09       |https://www.aliexpress.com/item/32968483467.html|
-|36AWG Wire                                        |0.25       |      |
-|26AWG Wire                                        |0.25       |      |
-|PLA                                               |0.30       |      |
+|Part                                              |Price [$]  | 
+|--------------------------------------------------|-----------|
+|ESP32-C3 Board                                    |10.00      |
+|Gyro sensor MPU 9250                              |[5.99](https://www.aliexpress.com/item/1005005377858707.html)|
+|Voltage/Current sensor INA219                     |[0.94](https://www.aliexpress.com/item/33047166203.html)|
+|Temperature/pressure/humidity sensor BME280 (3.3V)|[2.32](https://www.aliexpress.com/item/32862421810.html)|
+|Time of Flight sensor VL53L1X                     |[4.65](https://www.aliexpress.com/item/1005003091941068.html)|
+|Microphone                                        |[1.38](https://www.aliexpress.com/item/4000045517597.html)|
+|Light Sensor VEML7700                             |[2.15](https://www.aliexpress.com/item/1005004926993351.html)|
+|30x25mm solar cell (1V/80mA)                      |[0.30](https://www.aliexpress.com/item/1005003534570447.html)|
+|LiPo Battery 300mAh/3.7V                          |[0.79](https://www.aliexpress.com/item/1005005174603270.html)|
+|OLED 0.96 inch, SSD1306                           |[1.24](https://www.aliexpress.com/item/32957309383.html)|
+|RGB LED WS2812 2x2mm                              |[0.08](https://www.aliexpress.com/item/4000770210584.html)|
+|12mm self-locking on/off button                   |[1.20](https://www.aliexpress.com/item/1005003575736338.html)|
+|Tactile Push button 6x6x5                         |[0.02](https://www.aliexpress.com/item/32960657626.html)|
+|JST 3-Pin Connectors                              |[0.24](https://www.aliexpress.com/item/32954418743.html)|
+|14-Pin Header                                     |[0.10](https://www.aliexpress.com/item/33004522737.html)|
+|2 Female Banana connectors                        |[0.68](https://www.aliexpress.com/item/1005002642114673.html)|
+|Double sided tape                                 |[1.99](https://www.aliexpress.com/item/1005003980172009.html)|
+|Mounting Nut M2.5                                 |[0.03](https://de.aliexpress.com/item/4000585933306.html)|
+|M1.6 Screws 10mm                                  |[0.09](https://www.aliexpress.com/item/32968483467.html)|
+|36AWG Wire                                        |0.25       |
+|26AWG Wire                                        |0.25       |
+|PLA                                               |0.30       |
 
 ## Software
 For programming I use MicroPython as I'm used to it and I like it 😄. For flashing the firmware [Thonny](https://thonny.org) is super useful and I also recommend it for programming the ESP32.
