@@ -22,7 +22,7 @@ In addition the cube should have:
 - On/Off-Button
 - poss. buzzer for sound output
 
-I aim for a 35x35x35mm cube with 3D printed case. The case should be robust -- hopefully that it can fall from a building and be undamaged... Hope to be able to do this project. 
+I aim for a 35x35x35mm cube with 3D printed case. The case should be robust - so that it can fall from a building and be undamaged... Hope to be able to do this project. 
 
 My inspiration come from the [ESP32-Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3), [BQ25504 Solar Cell LiPo Charger](https://hackaday.io/project/158837-ultra-low-power-lipo-charger-via-energy-harvesting) and the [Wemos C3 Pico](https://www.wemos.cc/en/latest/c3/c3_pico.html).
 
