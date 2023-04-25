@@ -51,8 +51,10 @@ Now I'm waiting for the PCB and all the ordered parts.
 ## PCB design
 The v0.1 of the ESP32-C3 PCB I ordered on 17.4. on pcbway.com. I think their are some flaws, that's why I'm already on v0.2 and hope to also order these revision as soon as possible. The PCB has two layers.
 
-<img src="tux_pcb_v02.png" alt="Case v01" height="250"/><img src="routing_pcb_v02.png" alt="Case v01" height="250"/>
-
+<div class="images">
+  <img src="tux_pcb_v02.png" alt="Case v01" height="250"/>
+  <img src="routing_pcb_v02.png" alt="Case v01" height="250"/>
+</div>
 
 ## Case and schematics
 Case design I did with FreeCAD. See "case" directory for CAD- and stl-files.
