@@ -6,6 +6,7 @@
 22.04.23 First prototype and proof of concept  
 23.04.23 Case v0.1  
 25.04.23 Design and order of v0.2 PCB
+25.04.23 Case v0.2
 
 This is an idea I had for some time after playing around with the ESP32 together with sensors, micropython and Phyphox. I started designing a PCB by my own for an ESP32-C3 chip. I want it to be as small as possible and also solar powered. The cube should be energy ,self-sufficient' and used for teaching physics. 
 
