@@ -36,7 +36,11 @@ My inspiration come from the [ESP32-Picoclick-C3](https://github.com/makermoekoe
 
 On the weekend of 22.4./23.4. I created my first prototype for the cube interior and the 3D printed case. 
 
-<img src="case_v01.jpg" alt="Case v01" height="250"/> <img src="tux3_prototype_2.jpg" alt="First prototype of Tux Cube" height="250"/><img src="idea_sketch_tux_cube.png" alt="idea sketch" height="250"/>
+<div class="images">
+  <img src="case_v01.jpg" alt="Case v01" height="250"/> 
+  <img src="tux3_prototype_2.jpg" alt="First prototype of Tux Cube" height="250"/>
+  <img src="idea_sketch_tux_cube.png" alt="idea sketch" height="250"/>
+</div>
 
 I used a BME280, MPU6500, SSD1306 Oled, ADPS9900 and VL53L1X for my first prototype. It worked amazingly good and was simple to test with micropython. Soldered all sensors together on their I²C pins. First had trouble installing MicroPython on the ESP32, because I didn't use the ESP32-C3 USB-Version.
 
