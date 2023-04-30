@@ -1,6 +1,7 @@
 # Physics Sensor Cube ESP32-Tux³
 
-15.04.23 Idea for own ESP32 PCB Design  
+11.04.23 Idea for own ESP32 PCB Design  
+15.04.23 First sketches with KiCad  
 16.04.23 Idea for physics sensor cube Tux³ and first sketches  
 17.04.23 Design and order of v0.1 PCB  
 22.04.23 First prototype and proof of concept  
