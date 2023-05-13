@@ -10,7 +10,9 @@
 25.04.23 Case v0.2  
 29.04.23 Software v0.1  
 03.05.23 Arrival of PCB v0.1 + v0.2  
-10.05.23 Arrival of all parts for PCB, first working ESP32-C3 board
+10.05.23 Arrival of all parts for PCB, first working ESP32-C3 board  
+11.05.23 Order of 30 pcs v0.2 PCB on JLCPCB  
+12.05.23 Forth ESP32-C3 board completed  
 
 This is an idea I had for some time after playing around with the ESP32 together with sensors, micropython and Phyphox. I started designing a PCB by my own for an ESP32-C3 chip. I want it to be as small as possible and also solar powered. The cube should be energy ,self-sufficient' and used for teaching physics. 
 
