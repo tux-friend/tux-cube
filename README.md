@@ -21,8 +21,8 @@
 27.05.23 Finished DIY Reflow Heat Plate  
 31.05.23 Put ESP32-Tux on Tindie and got promotion by [hackster.io](https://www.hackster.io/news/the-lifex-esp32-tux-mini-offers-a-tiny-path-to-energy-harvesting-experimentation-with-an-esp32-c3-0470bf924f33) :-)  
 03.06.23 Finished 12 ESP32-Tux Dev boards for Tindie orders  
-13.02.24 Designed a ESP32-Tux Board with TP4056 Charging circuit
-15.03.26 Finally got time to sit on the project and designed a new Dev Board with ESP32-C5 chip
+13.02.24 Designed a ESP32-Tux Board with TP4056 Charging circuit  
+15.03.26 Finally got time to sit on the project and designed a new Dev Board with ESP32-C5 chip  
 
 
 This is an idea I had for some time after playing around with the ESP32 together with sensors, micropython and Phyphox. I started designing a PCB by my own for an ESP32-C3 chip. I want it to be as small as possible and also solar powered. The cube should be energy ,self-sufficient' and used for teaching physics. 
