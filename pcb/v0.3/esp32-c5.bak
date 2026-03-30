@@ -449,7 +449,7 @@
 					)
 				)
 			)
-			(pin no_connect line
+			(pin bidirectional line
 				(at 6.35 -33.02 90)
 				(length 2.54)
 				(name "GPIO15/SPICS1"

@@ -758,7 +758,7 @@
 			(pin bidirectional line
 				(at 33.02 2.54 180)
 				(length 2.54)
-				(name "GPIO13/USB_D+/SDIO_DATA3"
+				(name "GPIO13/USB_D-/SDIO_DATA3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -776,7 +776,7 @@
 			(pin bidirectional line
 				(at 33.02 0 180)
 				(length 2.54)
-				(name "GPIO14/USB_D-/SDIO_DATA2"
+				(name "GPIO14/USB_D+/SDIO_DATA2"
 					(effects
 						(font
 							(size 1.27 1.27)
